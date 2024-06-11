@@ -1,6 +1,6 @@
 # ak API Code Beispiele 
 
-Dieses Projekt enthält ein Jupyter-Notebook mit Code-Beispiele für die ak API Doku.
+Dieses Projekt enthält ein Jupyter-Notebook mit Code-Beispiele für die ak API.
 
 ## Öffnen in Google Colab
 
