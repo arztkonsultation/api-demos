@@ -6,4 +6,4 @@ This project contains a Jupyter notebook with code examples for the ak API.
 
 Click on the following button to open the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arztkonsultation/api-demos/blob/main/ak_Code_Beispiele.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arztkonsultation/api-demos/blob/main/ak_API_examples.ipynb)
